@@ -31,3 +31,9 @@ body {
 .header--bottom {
     color: white;
 }
+
+.footer{
+    color: grey;
+    text-align: right;
+    
+}
